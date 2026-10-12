@@ -1,0 +1,25 @@
+body {
+    background: #111827;
+    color: white;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+    padding: 40px;
+    border: 1px solid #374151;
+    border-radius: 16px;
+}
+
+h1 {
+    color: #38bdf8;
+}
+
+p {
+    color: #cbd5e1;
+}
